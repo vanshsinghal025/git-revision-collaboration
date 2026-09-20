@@ -1,2 +1,2 @@
-hello world
+hello from Alice
 Git is awesome
