@@ -1,2 +1,2 @@
-Hello from Alice and Bob
+Hello from Alice again
 Git is awesome
